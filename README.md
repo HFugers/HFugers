@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HFugers
-- 👀 I’m interested in Emerging Technologies and teh future of everything
-- 🌱 I’m currently learning about fotonica, Reinforcement Learning, HEM's
+- 👀 I’m interested in Emerging Technologies and the future of everything
+- 🌱 I’m currently learning about fotonica, Reinforcement Learning, HEM's, Large Language Models and Generative design.
 - 📫 How to reach me mail:hans.fugers@alliander.com
 
 Working at Alliander sinda jan-2009 and recent years as R&D specialist on congnitive things and systems, So AI, Robots, etc..
