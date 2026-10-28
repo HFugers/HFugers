@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @HFugers
 - 👀 I’m interested in Emerging Technologies and the future of everything
+- :clock11:  My old job was Interim management, Consultancy and Enterprise Architecture (incl security) 
 - 🌱 I’m currently learning about fotonica, Reinforcement Learning, HEM's, Large Language Models and Generative design.
 - 📫 How to reach me mail:hans.fugers@alliander.com
 
