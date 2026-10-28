@@ -12,3 +12,5 @@ Main topics:
 * Organisational Constellations ( Organisatie-opstellingen )
 
 Recently working on Digital Mesh - Autonomeous Agents / Ditigal Twins
+
+This year (2026) my part-time retirement kicked in and as of 1/1/'27 I am for hire on mo/thu/we so 3 days each week.
